@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "525454059887",
+    "firebase_url": "https://map-tracking-160221.firebaseio.com",
+    "project_id": "map-tracking-160221",
+    "storage_bucket": "map-tracking-160221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525454059887:android:7fc67c8e369d6bc6",
+        "android_client_info": {
+          "package_name": "com.snow.map.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525454059887-m2uk27l7jj5h17o03065nkd45h89vfbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snow.map.tracking",
+            "certificate_hash": "fae22f923877aa8863eb94af573cdcf0d22176fd"
+          }
+        },
+        {
+          "client_id": "525454059887-p6vq7iiab2c7412af2tp5do7e9lerr76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACYninMC2pjmMlBRLQ7nMzgUJP_4PmbF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525454059887-p6vq7iiab2c7412af2tp5do7e9lerr76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

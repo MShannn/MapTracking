@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tracking 3.0</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="map_label">Google Maps</string>
+    <string name="setting_label">Settings</string>
+    <string name="menu_map_normal">Normal</string>
+    <string name="menu_map_satellite">Satellite</string>
+    <string name="menu_map_terrain">Terrain</string>
+    <string name="menu_map_hybrid">Hybrid</string>
+    <string name="menu_map_none">None</string>
+
+    <!--PLEASE REPLACE YOUR ADMOB BANNER ID-->
+    <string name="google_map_api_key">AIzaSyBKy_6jbJeaf2yKuw40XY8trIGXBc48Za8</string>
+    <string name="home_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="open_weather_map_api">e55ebdcdb38fa378a02571de015622b1</string>
+</resources>
